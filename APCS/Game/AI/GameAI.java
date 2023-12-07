@@ -3,6 +3,9 @@ public class GameAI {
 
     public static void main(String[] args) {
 
+
+
+        
         // Create instances
         SpawnRoom spawnRoom = new SpawnRoom("SpawnRoom", true, new String[]{"forward"});
         PuzzleRoom puzzleRoom1 = new PuzzleRoom("PuzzleRoom1", "4+26-8", 22, false, new String[]{"22", "left"});
