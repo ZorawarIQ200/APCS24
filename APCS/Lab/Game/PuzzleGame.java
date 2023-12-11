@@ -1,3 +1,4 @@
+package APCS.Lab.Game;
 import java.util.*;
 
 public class PuzzleGame {
